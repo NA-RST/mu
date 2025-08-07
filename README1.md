@@ -1,8 +1,11 @@
 
 Version Control Training README1: Martin Munoz
-ere is some interesting information about each of us: 
+Here is some interesting information about each of us: 
 Martin lives in Allston.  
 He likes to dance Salsa.  
 Он из Колумбий
-
+ 
+Я из Москвы, но говорю по испански.
+Мартин из Колумбии, но говорит по русски.
+Мы оба танцуем сальсу и у нас общий профессор.
 
